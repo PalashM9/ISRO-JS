@@ -9,7 +9,7 @@ This JS-based application provides an interactive directory to search for Indian
 - **Dynamic Data**: Centres' information is dynamically loaded and displayed.
 
 ## Technologies Used
-- ReactJS
+- JS
 - CSS3 for styling
 - Responsive design principles
 
