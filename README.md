@@ -1,7 +1,7 @@
 # ISRO Centres Directory
 
 ## Overview
-This ReactJS-based application provides an interactive directory to search for Indian Space Research Organization (ISRO) centres across India. Users can search based on city, state, and centre name. 
+This JS-based application provides an interactive directory to search for Indian Space Research Organization (ISRO) centres across India. Users can search based on city, state, and centre name. 
 
 ## Features
 - **Search Functionality**: Users can input search terms to filter ISRO centres.
