@@ -16,8 +16,7 @@ This JS-based application provides an interactive directory to search for Indian
 ## Setup
 To run this project locally:
 1. Clone the repo.
-2. Run `npm install` to install dependencies.
-3. Use `npm start` to launch the application.
+2. Run the index.html file.
 
 ## Application
 
